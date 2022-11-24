@@ -1,2 +1,2 @@
 const app = document.getElementById("app")
-app.innerText = "I am a placeholder"
+app.innerHtml = "I am a placeholder"
